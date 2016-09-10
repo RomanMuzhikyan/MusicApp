@@ -1,0 +1,17 @@
+welcome=Welcome to the Music App!\n
+write.sign.up.or.sign.in=Please write down one of this commands \"Sign Up\" or \"Sign In\"\n
+provide.username=Please provide your username:\n
+provide.password=Please provide your password:\n
+see.playlist=Now you can see your playlist\n
+successfully.created= You have successfully created user\nPlease write down one of this commands \"Sign Up\" or \"Sign In\"\n
+user.logged.successfully=You are successfully logged in\n
+your.playlist=Your PlayList\n
+sign.out.account=>>You successful sign outed from account\n
+exit.mes=>>Exit program
+bot.message=>>You Are A Robot\n
+help.text =\"Sign Up\" - \"Create new account"\n\"Sign In\" - \"Log in with your account"\n\
+  \"Show PlayList\" - \"Your PlayList"\n\
+  \"Sign Out\" - \"Log out from your account"\n\
+  \"Exit\" - \"Exit program"\n\
+  \"Help\" - \"Commands description"\n
+invalid.command=>>Invalid command. Please write "Help" command for see command list\n
